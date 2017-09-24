@@ -10,4 +10,3 @@ public class DefiHerokuApplication {
 		SpringApplication.run(DefiHerokuApplication.class, args);
 	}
 }
-echo "# defiHeroku" >> README.md ; git init ; git add README.md ; git commit -m "first commit"; git remote add origin https://github.com/samantang/defiHeroku.gitgit push -u origin master
